@@ -1,4 +1,4 @@
-package com.eshop.eshop.items;
+package com.eshop.eshop.item;
 
 /**
  * @author Jeremy Corbeilla <jeremy.corbeilla@fairfair.com>
